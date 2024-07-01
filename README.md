@@ -1,8 +1,6 @@
 # Customer Complaint Analysis
 
 ## Table of Contents
-- [Domain](#domain)
-- [Function](#function)
 - [Problem Statement](#problem-statement)
 - [Objective](#objective)
 - [Tools Used](#tools-used)
@@ -15,11 +13,6 @@
 - [License](#license)
 - [Dashboard](#dashboard)
 
-## Domain
-Customer Service and Support
-
-## Function
-Consumer Complaints Management and Resolution Improvement
 
 ## Problem Statement
 One of the primary issues for a company is understanding and improving customer satisfaction with regard to the handling of consumer complaints. There is a need to identify factors contributing to dissatisfaction, delays in resolution, and the channels through which complaints are most effectively managed. This analysis aims to uncover these insights to enhance customer service and operational efficiency.
