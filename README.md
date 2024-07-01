@@ -17,7 +17,7 @@ One of the primary issues for a company is understanding and improving customer 
 ## 🎯 Objective
 The objective of this project is to analyze consumer complaint data to identify trends and patterns that can inform strategies for improving customer satisfaction, reducing resolution times, ensuring timely responses, and minimizing disputes. This involves examining the performance of different companies, products, and complaint channels to pinpoint areas for improvement and best practices.
 
-## 🛠️Tools Used
+## 🛠️ Tools Used
 - **Analytical & Visual:**  Microsoft Excel\
   <img width="48" height="48" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 - **Presentation:** Microsoft Power Point\
