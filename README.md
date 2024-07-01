@@ -1,14 +1,14 @@
 # 📊 Customer Complaint Analysis
 
-## Table of Contents
-- [Problem Statement](#problem-statement)
-- [Objective](#objective)
-- [Tools Used](#tools-used)
-- [Dataset Overview](#dataset-overview)
-- [Key Findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Installation and Usage](#installation-and-usage)
-- [Dashboard](#dashboard)
+## 📕 Table of Contents
+- [Problem Statement](#-problem-statement)
+- [Objective](#-objective)
+- [Tools Used](#%EF%B8%8F-tools-used)
+- [Dataset Overview](#-dataset-overview)
+- [Key Findings](#-key-findings)
+- [Recommendations](#-recommendations)
+- [Installation and Usage](#-installation-and-usage)
+- [Dashboard](#-dashboard)
 
 
 ## ❓ Problem Statement
