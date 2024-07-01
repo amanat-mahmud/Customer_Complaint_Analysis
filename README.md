@@ -7,6 +7,7 @@
 - [Dataset Overview](#-dataset-overview)
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
+- [Project Presentation](#-project-presentation)
 - [Installation and Usage](#-installation-and-usage)
 - [Dashboard](#-dashboard)
 
@@ -48,6 +49,11 @@ The objective of this project is to analyze consumer complaint data to identify 
 6. Companies should allocate resources and training to handle mortgage-related complaints more efficiently.
 7. Investigate the causes behind the decline in timely responses from 2015 to 2016 and address them accordingly.
 8. Reinforce the factors that led to the decrease in complaints in 2016 and address the root causes of the rising complaints from 2013 to 2015.
+
+## 📌 Project Presentation
+
+### Slides
+The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/customer_complaint_analysis/blob/main/complaint%20analysis.pdf)
 
 ## 💻 Installation and Usage
 - Microsoft Excel
