@@ -8,6 +8,7 @@
 - [Key Findings](#-key-findings)
 - [Recommendations](#-recommendations)
 - [Project Presentation](#-project-presentation)
+- [Project Learnings](#-project-learnings)
 - [Installation and Usage](#-installation-and-usage)
 - [Dashboard](#-dashboard)
 
@@ -54,6 +55,15 @@ The objective of this project is to analyze consumer complaint data to identify 
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/customer_complaint_analysis/blob/main/complaint%20analysis.pdf)
+
+## 🧠 Project Learnings
+1. Data Loading and Transformations.
+2. Pivot table analysis.
+3. Power Query and DAX.
+4. Data visualization.
+5. Conditional column.
+6. Importance of data quality.
+7. Data storytelling.
 
 ## 💻 Installation and Usage
 - Microsoft Excel
