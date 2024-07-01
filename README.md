@@ -7,10 +7,7 @@
 - [Dataset Overview](#dataset-overview)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Prerequisites](#prerequisites)
 - [Installation and Usage](#installation-and-usage)
-- [Contributors](#contributors)
-- [License](#license)
 - [Dashboard](#dashboard)
 
 
