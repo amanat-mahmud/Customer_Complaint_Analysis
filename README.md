@@ -21,9 +21,9 @@ The objective of this project is to analyze consumer complaint data to identify 
 
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Microsoft Excel\
-  <img width="48" height="48" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="96" height="96" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
 - **Presentation:** Microsoft Power Point\
-  <img width="48" height="48" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
+  <img width="96" height="96" src="https://img.icons8.com/fluency/96/microsoft-powerpoint-2019.png" alt="microsoft-powerpoint-2019"/>
 
 ## 📅 Dataset Overview
 - **Data source:** Internet
