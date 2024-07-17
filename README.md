@@ -57,7 +57,7 @@ The objective of this project is to analyze consumer complaint data to identify 
 8. Reinforce the factors that led to the decrease in complaints in 2016 and address the root causes of the rising complaints from 2013 to 2015.
 
 ## 📌 Project Presentation
-[![Customer Complaint Analysis Presentation](https://github.com/amanat-mahmud/Customer_Complaint_Analysis/blob/main/cover.png)]()
+[![Customer Complaint Analysis Presentation](https://github.com/amanat-mahmud/Customer_Complaint_Analysis/blob/main/cover.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7219347405333250048/)
 
 ### Slides
 The detailed presentation slides for this project can be found [here](https://github.com/amanat-mahmud/Customer_Complaint_Analysis/blob/main/slide.pdf)
