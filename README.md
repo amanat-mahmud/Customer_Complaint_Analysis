@@ -40,6 +40,11 @@ The objective of this project is to analyze consumer complaint data to identify 
 - Average resolution time: 2 days
 - Average issues per product: 1261
 - Top company based on satisfaction: 2233 Paradise Road LLC
+- Bank of America: Highest number of complaints
+- TransUnion: Highest average issues per product
+- Web channel: Highest number of issue acknowledgments
+- Mortgage products: Longest resolution time
+
 
 ## 💡 Recommendations
 1. Bank of America should focus on reducing complaints and improving resolution quality, while Synchrony Financial should streamline its complaint resolution process.
